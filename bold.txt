@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 try1
+=======
+alternative approach
+>>>>>>> dev2
